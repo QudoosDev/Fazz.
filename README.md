@@ -1,6 +1,6 @@
 # Fazz - Premium Coaching Provider Landing Page
 
-<img width="1908" height="794" alt="Fazz" src="https://github.com/user-attachments/assets/ee7daaf7-d78a-4650-8bcc-9382ecd608b7" />
+![Fazz Website Preview](./public/Fazz.png)
 
 This is a modern, high-conversion landing page built for high-end coaching professionals. It is designed with precision to establish authority, present clear roadmaps, and maximize conversion rates for exclusive strategy sessions. 
 

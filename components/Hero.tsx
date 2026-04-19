@@ -97,7 +97,7 @@ const Hero = () => {
           className="relative h-full w-full flex items-end justify-center self-end"
         >
           {/* Loaded Image - No background, aligned to bottom, scaled up an extra 20% */}
-          <div className="relative aspect-[3/4] w-full max-w-lg lg:max-w-xl scale-[2.27] origin-bottom">
+          <div className="relative aspect-[3/4] w-full max-w-lg lg:max-w-xl scale-[2.27] origin-bottom translate-x-[12%] lg:translate-x-0">
             <Image
               src="/hero-section.png"
               alt="Coach Adam"

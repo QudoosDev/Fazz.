@@ -51,7 +51,7 @@ const CTASection = () => {
           {/* Absolute Right Side Elements */}
           
           {/* 1. Man Cutout Image */}
-          <div className="absolute bottom-0 left-[45%] -translate-x-1/2 md:translate-x-0 md:left-auto md:right-[22%] lg:right-[24%] w-[160%] sm:w-[120%] md:w-[60%] h-[320px] sm:h-[350px] md:h-[100%] scale-[1.19] md:scale-[1.35] origin-bottom pointer-events-none z-10">
+          <div className="absolute bottom-0 left-[45%] -translate-x-1/2 md:translate-x-0 md:left-auto md:right-[10%] lg:right-[14%] w-[160%] sm:w-[120%] md:w-[60%] h-[320px] sm:h-[350px] md:h-[100%] scale-[1.18] md:scale-[1.27] origin-bottom pointer-events-none z-10">
             <Image 
               src="/last-section.png"
               alt="Start Now Coach"
